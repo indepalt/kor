@@ -1,0 +1,8 @@
+
+case "这是一个风神瞳" :
+        prop.popupContent = "바람신의 눈동자 이다";
+        break;
+
+case "这是一个岩神瞳" :
+        prop.popupContent = "바위신의 눈동자 이다.";
+        break;

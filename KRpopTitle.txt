@@ -1,0 +1,8 @@
+
+case "风神瞳" :
+        prop.popTitle = "바람신의 눈동자";
+        break;
+
+case "岩神瞳" :
+        prop.popTitle = "바위신의 눈동자";
+        break;
